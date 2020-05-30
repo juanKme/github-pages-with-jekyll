@@ -1,8 +1,7 @@
-theme: minima
-title: THis is my awesome Vlog
-author: Juan Camilo Torres
-email: jctorresce@outlook.com
-description: > # this means to ignore newlines until "baseurl:"
+---
+title: "Welcome to my blog"
+date: 2020-05-30
+---
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
